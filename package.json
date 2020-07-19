@@ -1,0 +1,17 @@
+{
+  "name": "blog-post-site",
+  "version": "1.0.0",
+  "description": "My First Project with EJS, node.js & express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon",
+    "start": "node app.js"
+  },
+  "author": "Silver",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.11"
+  }
+}
